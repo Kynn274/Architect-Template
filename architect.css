@@ -145,6 +145,12 @@ p{
     cursor: pointer;
 }
 /*contact*/
+#contact{
+    width: 100%;
+}
+#contact .include{
+    width: 100%;
+}
 #contact input{
     width: 100%;
     font-size: 15px;
